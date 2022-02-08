@@ -57,7 +57,7 @@ export default function HomeScreen({ navigation }: NativeStackScreenProps<RootSt
   return (
     <Container>
       <StatusBar style={"dark"} />
-      <GradientBG source={require("../../assets/bg.png")} resizeMode={"cover"}>
+      <GradientBG source={require("../../../assets/bg.png")} resizeMode={"cover"}>
         <Main>
           <Logo />
           <Btns>

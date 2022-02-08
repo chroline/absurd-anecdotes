@@ -10,11 +10,11 @@
 [![built with madlibs-api](https://img.shields.io/badge/built%20with-madlibs--api-black?style=for-the-badge)](https://github.com/chroline/madlibs-api)
 
 
-Create funky fill-in-the-blank stories!
+🤣 Create funky fill-in-the-blank stories! 🤣
 
 </div>
 
-## [Tutorials](https://www.youtube.com/playlist?list=PL-rBG3fUBkKh3mbGGbM715MFSh15-c6lJ)
+## 🎥 [Tutorials](https://www.youtube.com/playlist?list=PL-rBG3fUBkKh3mbGGbM715MFSh15-c6lJ)
 
 This app was built as an educative tool for working with the `expo-in-app-purchases` package and Expo Application
 Services (EAS). I created 2 videos to go along with this app:
@@ -22,7 +22,7 @@ Services (EAS). I created 2 videos to go along with this app:
 - **[Implementing In-App Purchases in Expo & React Native](https://www.youtube.com/watch?v=dyz1S6FWJ9A)** (9:03)
 - **Using Expo Application Services (EAS) to Develop your Expo App** (coming soon!)
 
-## Tech stack
+## 🧑‍💻 Tech stack
 
 **Absurd Anecdotes!** is built with Expo and React Native, and uses Typescript for a type-safe codebase.
 
@@ -33,7 +33,7 @@ Here's a condensed list of important packages used by the app:
 - **`@react-navigation/native`** — built-in native navigation
 - **`react-native-paper`** — stylish, customizable component library
 
-## Getting the app up and running
+## 🚀 Getting the app up and running
 
 ### Installation steps
 

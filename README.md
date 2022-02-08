@@ -1,16 +1,19 @@
 <div align="center">
 
-# Absurd Anecdotes!
+![Absurd Anecdotes!](assets/logo.svg)
+
+<br />
 
 [![runs with expo](https://img.shields.io/badge/Runs%20with%20Expo-4630EB.svg?style=for-the-badge&logo=EXPO&labelColor=f3f3f3&logoColor=000)](https://github.com/expo/expo)
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
-[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=for-the-badge)](https://github.com/chroline/madlibs-api/compare)
-
 [![built with words-aas](https://img.shields.io/badge/built%20with-words--aas-black?style=for-the-badge)](https://github.com/chroline/words-aas)
 [![built with madlibs-api](https://img.shields.io/badge/built%20with-madlibs--api-black?style=for-the-badge)](https://github.com/chroline/madlibs-api)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
 
+<br />
 
 🤣 Create funky fill-in-the-blank stories! 🤣
+
+<br />
 
 </div>
 

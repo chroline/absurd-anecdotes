@@ -63,6 +63,8 @@ There are a few different methods you can use to test-run this app.
 
 <summary>Expo Go</summary>
 
+<br />
+
 You can run this app in Expo Go by running:
 
 ```bash
@@ -71,11 +73,15 @@ expo start
 
 Note that in Expo Go, in-app purchases won't work.
 
+<br />
+
 </details>
 
 <details>
 
 <summary>Local build</summary>
+
+<br />
 
 The most straight-forward way to run your app on a device is with the `expo run` command.
 
@@ -89,11 +95,15 @@ expo run:android -d
 
 to run your app on a device.
 
+<br />
+
 </details>
 
 <details>
 
 <summary>Internal distribution</summary>
+
+<br />
 
 With EAS Build, you can run your app on your device without Expo Go, giving you full access to native code. To do so,
 first make sure you have [the EAS CLI installed](https://docs.expo.dev/build/setup/#1-install-the-latest-eas-cli). Then,
